@@ -14,7 +14,7 @@ The **Dynamic Invoice Generator** is a web-based tool built using **HTML, CSS, a
 - JavaScript (Vanilla JS)
 
 ## 📸 Screenshot
-![Invoice Screenshot](images/invoice.png)
+![Invoice Screenshot](invoice.png)
 
 ## 📂 Project Link
 [View on GitHub](https://github.com/ankitab78/Dynamic-Invoice-generator)
